@@ -1,0 +1,8 @@
+1 Write a program that reads a text file
+2 and inserts line numbers in front of each of its lines. 
+3 The result should be written to another text file. 
+4 Use StreamReader in combination with StreamWriter.
+5 Write a program that reads a list of words from the file words.txt
+6 and finds how many times each of the words is contained in another file text.txt.
+7 Matching should be case-insensitive.
+8 Write the results in file results.txt.
